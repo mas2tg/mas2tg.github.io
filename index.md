@@ -10,7 +10,7 @@ layout: home
 <p>Welcome to my webpage! I am a Computer Engineering M.S. student at the University of Virginia. My work primarily lies in <b>cybersecurity</b> and <b>systems security</b>. Keep reading to learn more about some projects I have worked on in the past. I am currently being advised by <a href="https://engineering.virginia.edu/faculty/yixin-sun">Yixin Sun</a>.</p>
 
 <b>Traffic Analysis on Tor and LTE/4G</b> 
-<i>(June 2020 - present)</i>
+<i>(Jun 2020 - present)</i>
 <p>Working with <a href="http://www.people.virginia.edu/~cs7dt/home.html">Cong Shen</a> and Yixin on a project that aims to perform traffic analysis on the Tor network and layer-2 LTE packets. In our simulation, we use <a href="https://shadow.github.io/">shadow</a> for the Tor componenet, and <a href="https://www.nsnam.org/">ns3</a> for the LTE side. We are on track to perform tests on a physical testbed in the Spring of 2021. </p>
 <b>Program segmentation based on framework APIs</b> <i>(Oct 2019 - Jun 2020)</i>
 <p>I worked on a C++ system whose goal was to delegate the execution of a given framework API to a subprocess, reducing the attack surface of framework exploits. The delegating program would pass all the necessary data to the other processes through IPC using shared memory.</p>
