@@ -20,7 +20,7 @@ Talks:
 - [How do you explain consciousness](https://www.youtube.com/watch?v=uhRhtFFhNzQ) (Chalmers, 2014) *as a tidbit, Chalmers coined the famous idea of "hard problem of consciousness"*
 
 <div align="center">
-<img src="sphere.jpg"/>
+<img src="../sphere.jpg"/>
 </div>
 <p align="center"><i>Hand with reflective sphere (Escher, 1935)</i></p>
 
