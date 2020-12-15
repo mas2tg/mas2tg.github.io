@@ -8,6 +8,9 @@ layout: home
 <div>
 <p>Welcome to my webpage! I am a Computer Engineering M.S. student at the University of Virginia. My work primarily lies in <b>cybersecurity</b> and <b>systems security</b>. Keep reading to learn more about some projects I have worked on in the past. I am currently being advised by <a href="https://engineering.virginia.edu/faculty/yixin-sun">Yixin Sun</a>.</p>
 
+<h2>Education</h2>
+<p>University of Virginia - <b>Master of Science</b> <i>(Aug 2019 - May 2021)</i> <br/>
+University of Virginia - <b>Bachelor of Science with High Distinction</b> <i>(Aug 2013 - May 2017)</i> </p>
 <div style="width:75%; float:left">
 <h2>Research</h2>
 <b>Traffic Analysis on Tor and LTE/4G</b> 
@@ -20,9 +23,8 @@ layout: home
 
 
 <div>
-<img style="width:25%; height:25%; float:right;" src="marco.png" /> <!--span style="position:absolute; right:1px; top:225px">A picture of yours truly.</span>-->
+<img style="width:25%; height:25%; float:right; margin-top:30px" src="marco.png" /> <!--span style="position:absolute; right:1px; top:225px">A picture of yours truly.</span>-->
 </div>
-This is my face! 
 <br/>
 
 <h2 style="clear:left">Work</h2>
