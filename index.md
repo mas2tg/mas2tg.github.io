@@ -6,16 +6,18 @@ layout: home
 ---
 <h1>Home</h1>
 <div>
-<p>Welcome to my webpage! I am a Computer Engineering M.S. student at the University of Virginia. My work primarily lies in <b>cybersecurity</b> and <b>systems security</b>. Keep reading to learn more about some projects I have worked on in the past. I am currently being advised by <a href="https://engineering.virginia.edu/faculty/yixin-sun">Yixin Sun</a>.</p>
+<p>Welcome to my webpage! I am a Computer Science PhD student at the University of Southern California being advised by <a href="https://viterbi-web.usc.edu/~halfond/">William Halfond</a>. My main areas of interest are <i>Software Engineering</i>, <i>Program Analysis</i> and <i>Software Security</i>. Right now I am learning a lot about Android's Inter-Component-Communication (ICC) and how we can apply program analysis techniques to detect ICC vulnerabilities in Android apps. Keep reading to learn more about some projects I have worked on in the past. </p>
 
 <h2>Education</h2>
-<p>University of Virginia - <b>Master of Science</b> <i>(Aug 2019 - May 2021)</i> <br/>
+
+<p>University of Southern California - <b>PhD</b> <i>(Aug 2021 - present)</i> <br/>
+University of Virginia - <b>Master of Science</b> <i>(Aug 2019 - May 2021)</i> <br/>
 University of Virginia - <b>Bachelor of Science with High Distinction</b> <i>(Aug 2013 - May 2017)</i> </p>
 <div style="width:75%; float:left">
 <h2>Research</h2>
 <b>Traffic Analysis on Tor and LTE/4G</b> 
-<i>(Jun 2020 - present)</i>
-<p>Working with <a href="http://www.people.virginia.edu/~cs7dt/home.html">Cong Shen</a> and Yixin on a project that aims to perform traffic analysis on the Tor network and layer-2 LTE packets. In our simulation, we use <a href="https://shadow.github.io/">shadow</a> for the Tor componenet, and <a href="https://www.nsnam.org/">ns3</a> for the LTE side. We are on track to perform tests on a physical testbed in the Spring of 2021. </p>
+<i>(Jun 2020 - May 2021)</i>
+<p>Worked with <a href="https://www.cs.virginia.edu/~ys3kz/">Yixin Sun (advisor)</a> and <a href="http://www.people.virginia.edu/~cs7dt/home.html">Cong Shen</a> on a project that performed traffic correlation attacks on the Tor network and layer-2 LTE packets. In our experiments, we used <a href="https://www.nsnam.org/">ns3</a> for simulating the LTE network and previously recorded real-world Tor traffic for analysis. You can read more about my thesis <a href="https://libraetd.lib.virginia.edu/public_view/xk81jm023">here</a>. </p>
 <b>Program segmentation based on framework APIs</b> <i>(Oct 2019 - Jun 2020)</i>
 <p>I worked on a C++ system whose goal was to delegate the execution of a given framework API to a subprocess, reducing the attack surface of framework exploits. The delegating program would pass all the necessary data to the other processes through IPC using shared memory.</p>
 </div>
@@ -34,7 +36,7 @@ University of Virginia - <b>Bachelor of Science with High Distinction</b> <i>(Au
 
 <div>
 <h2>Teaching</h2>
-<p>I have lots of experience being a Teacher Assistant! Let me know if you looking for one.</p>
+<b>CSCI 310 Software Engineering</b> with William Halfond <i>(Fall 2021)</i> <br/>
 <b>ECE/CS 6501 Matrix Analysis</b> with Cong Shen <i>(Fall 2020)</i> <br/>
 <b>ECE 2660 Fundamentals of Electrical Engineering II</b> with Todd Delong <i>(Fall 2019)</i> <br/>
 <b>CS 4630 Defense Against the Dark Arts</b> with Charles Reiss <i>(Spring 2017)</i> <br/>

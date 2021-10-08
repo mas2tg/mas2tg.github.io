@@ -11,6 +11,8 @@ I enjoy working out, doing things like running (I once ran a half-marathon!), ca
 I also enjoy reading about *consciouness*, and how it came to be. In a nushell, I don't think humans are anywhere near in replicating it with machines -- *we barely underestand how our brain works!* If you are also a fan of the topic, please reach out and let's have a conversation about it! Here are some books that have influenced my thoughts about the subject:
 
 Books:
+- A Thousand Brains: A New Theory of Intelligence (Jeff Hawkins, 2021)
+- How to Change Your Mind (Michael Pollan, 2018)
 - From Bacteria To Bach and Back (Dennet, 2017)
 - Godel, Escher and Bach (Hofstadter 1979)
 
